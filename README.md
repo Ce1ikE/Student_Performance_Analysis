@@ -1,6 +1,6 @@
 # Student_Performance_Analysis
 
-## repository for the course of Python for AI
+## repository for the course of Python for AI 🏫
 
 
 <p>
@@ -14,3 +14,10 @@
     <li>requirements_docker.txt => used by the dockerfile to build the docker image</li> 
 </ol>
 
+## How to run the project ? 🖥️
+in any terminal (preferably one that supports ANSI CSI) go to the root of the project
+and run with python the `project.py` file
+```
+$ cd /path/to/repo/Student_Performance_Analysis
+$ python3 project.py
+```
