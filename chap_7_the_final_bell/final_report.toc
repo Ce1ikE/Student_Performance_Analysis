@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Course Overview}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Final Project Overview}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Dataset Selection}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Goal}{2}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Project}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Exploration and Preprocessing}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Exploration}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Preprocessing}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Searching for models}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Model Selection}{8}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Hyperparameter Tuning}{11}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Tuning}{11}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Final Model}{13}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Neural Networks}{15}{subsection.2.4}%
+\contentsline {section}{\numberline {3}SHAP}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}SHAP Analysis}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}SHAP Values Calculation}{19}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Conclusion}{20}{section.4}%
