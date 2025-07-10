@@ -21,3 +21,10 @@ and run with python the `project.py` file
 $ cd /path/to/repo/Student_Performance_Analysis
 $ python3 project.py
 ```
+
+## Feedback
+<p>
+    It was mentioned by my teacher that while the project was good for what we learned 
+    during the course , the names of the chapters were confusing and the code structure can be much better 
+    IMO. (especially the __init__.py in the root folder 😢) But this was mainly because i rushed this in under 2 Days.
+</p>
