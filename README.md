@@ -27,4 +27,8 @@ $ python3 project.py
     It was mentioned by my teacher that while the project was good for what we learned 
     during the course , the names of the chapters were confusing and the code structure can be much better 
     IMO. (especially the __init__.py in the root folder 😢) But this was mainly because i rushed this in under 2 Days.
+    it would also been more intersesting to wrap this into some classes instead of using plain Python scripts (sure for the exploration part script might be easier)
+    especially when you want to streamline thie process (data cleaning + visualization + logging) into a production ready.
+    if we take a look at the book of Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.
+    On page 779 to 784 (appendix A) he cover's the main bullet points on how to get from a project to production ready status.
 </p>
